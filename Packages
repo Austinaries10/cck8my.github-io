@@ -1,0 +1,10 @@
+Package: cck8.my
+Name: Anti-Boom Austintech
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Austin
+Author: Austin
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 388
